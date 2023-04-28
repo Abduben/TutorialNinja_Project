@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="17" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T21:10:51 EDT" name="Suite" finished-at="2023-04-27T21:16:00 EDT" duration-ms="308152">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T21:10:51 EDT" name="Test" finished-at="2023-04-27T21:16:00 EDT" duration-ms="308152">
+      <class name="testCases.Registration_Testcases">
+        <test-method is-config="true" signature="startRecordingThetTestes()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:10:51 EDT" name="startRecordingThetTestes" finished-at="2023-04-27T21:10:51 EDT" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startRecordingThetTestes -->
+        <test-method is-config="true" signature="openNinjaTutorial()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:10:53 EDT" name="openNinjaTutorial" finished-at="2023-04-27T21:11:20 EDT" duration-ms="27158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNinjaTutorial -->
+        <test-method signature="registeraccMandortoryfieds()[pri:1, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:20 EDT" name="registeraccMandortoryfieds" finished-at="2023-04-27T21:11:23 EDT" duration-ms="3002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeraccMandortoryfieds -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:23 EDT" name="closebrowser" finished-at="2023-04-27T21:11:23 EDT" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openNinjaTutorial()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:23 EDT" name="openNinjaTutorial" finished-at="2023-04-27T21:11:38 EDT" duration-ms="14288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNinjaTutorial -->
+        <test-method signature="rgisteraccProvideallfields()[pri:2, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:38 EDT" name="rgisteraccProvideallfields" finished-at="2023-04-27T21:11:41 EDT" duration-ms="3089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rgisteraccProvideallfields -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:41 EDT" name="closebrowser" finished-at="2023-04-27T21:11:41 EDT" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openNinjaTutorial()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:41 EDT" name="openNinjaTutorial" finished-at="2023-04-27T21:11:50 EDT" duration-ms="8603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNinjaTutorial -->
+        <test-method signature="verifyProperNotificationMessages()[pri:3, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:50 EDT" name="verifyProperNotificationMessages" finished-at="2023-04-27T21:11:51 EDT" duration-ms="1183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProperNotificationMessages -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:51 EDT" name="closebrowser" finished-at="2023-04-27T21:11:52 EDT" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openNinjaTutorial()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:11:52 EDT" name="openNinjaTutorial" finished-at="2023-04-27T21:12:02 EDT" duration-ms="10236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNinjaTutorial -->
+        <test-method signature="registerAccWithYes()[pri:4, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:02 EDT" name="registerAccWithYes" finished-at="2023-04-27T21:12:05 EDT" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccWithYes -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:05 EDT" name="closebrowser" finished-at="2023-04-27T21:12:06 EDT" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openNinjaTutorial()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:06 EDT" name="openNinjaTutorial" finished-at="2023-04-27T21:12:17 EDT" duration-ms="10952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNinjaTutorial -->
+        <test-method signature="registerAccWithNo()[pri:5, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:17 EDT" name="registerAccWithNo" finished-at="2023-04-27T21:12:19 EDT" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccWithNo -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:19 EDT" name="closebrowser" finished-at="2023-04-27T21:12:20 EDT" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openNinjaTutorial()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:20 EDT" name="openNinjaTutorial" finished-at="2023-04-27T21:12:29 EDT" duration-ms="9681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNinjaTutorial -->
+        <test-method signature="navtoRegisterAccPage()[pri:6, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:29 EDT" name="navtoRegisterAccPage" finished-at="2023-04-27T21:12:32 EDT" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navtoRegisterAccPage -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registration_Testcases@298a5e20]" started-at="2023-04-27T21:12:32 EDT" name="closebrowser" finished-at="2023-04-27T21:12:33 EDT" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testCases.Registration_Testcases -->
+      <class name="testCases.Registartion_TestCase_continue">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:12:38 EDT" name="setup" finished-at="2023-04-27T21:12:46 EDT" duration-ms="8752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithUnmatchedPassandRepass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:12:46 EDT" name="registeringAccountWithUnmatchedPassandRepass" data-provider="getTN/TC8ExcelData" finished-at="2023-04-27T21:12:49 EDT" duration-ms="2164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abderrahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ben Moussa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ecwdcwmpwdmcokm@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithUnmatchedPassandRepass -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:12:49 EDT" name="closebrowser" finished-at="2023-04-27T21:12:50 EDT" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:12:50 EDT" name="setup" finished-at="2023-04-27T21:13:01 EDT" duration-ms="11781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithUnmatchedPassandRepass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:01 EDT" name="registeringAccountWithUnmatchedPassandRepass" data-provider="getTN/TC8ExcelData" finished-at="2023-04-27T21:13:03 EDT" duration-ms="1779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rachid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abduben12@gmai.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithUnmatchedPassandRepass -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:03 EDT" name="closebrowser" finished-at="2023-04-27T21:13:04 EDT" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:04 EDT" name="setup" finished-at="2023-04-27T21:13:14 EDT" duration-ms="10491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithExistingAccountDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:14 EDT" name="registeringAccountWithExistingAccountDetails" data-provider="getTN/TC9ExcelData" finished-at="2023-04-27T21:13:16 EDT" duration-ms="1798" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abderrahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ben Moussa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ecwdcwmpwdmcokm@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithExistingAccountDetails -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:16 EDT" name="closebrowser" finished-at="2023-04-27T21:13:16 EDT" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:16 EDT" name="setup" finished-at="2023-04-27T21:13:27 EDT" duration-ms="10129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithExistingAccountDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:27 EDT" name="registeringAccountWithExistingAccountDetails" data-provider="getTN/TC9ExcelData" finished-at="2023-04-27T21:13:28 EDT" duration-ms="1696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rachid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abduben12@gmai.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithExistingAccountDetails -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:28 EDT" name="closebrowser" finished-at="2023-04-27T21:13:29 EDT" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:29 EDT" name="setup" finished-at="2023-04-27T21:13:39 EDT" duration-ms="10579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithExistingAccountDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:39 EDT" name="registeringAccountWithExistingAccountDetails" data-provider="getTN/TC9ExcelData" finished-at="2023-04-27T21:13:41 EDT" duration-ms="1731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zarou]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abduben123@gmai.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithExistingAccountDetails -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:41 EDT" name="closebrowser" finished-at="2023-04-27T21:13:41 EDT" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:41 EDT" name="setup" finished-at="2023-04-27T21:13:51 EDT" duration-ms="9354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithExistingAccountDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:51 EDT" name="registeringAccountWithExistingAccountDetails" data-provider="getTN/TC9ExcelData" finished-at="2023-04-27T21:13:53 EDT" duration-ms="1849" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Elizabeth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ABDRTA@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithExistingAccountDetails -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:53 EDT" name="closebrowser" finished-at="2023-04-27T21:13:53 EDT" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:13:53 EDT" name="setup" finished-at="2023-04-27T21:14:02 EDT" duration-ms="8517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithInvalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:02 EDT" name="registeringAccountWithInvalidEmail" data-provider="getTN/TC10ExcelData" finished-at="2023-04-27T21:14:03 EDT" duration-ms="1232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abderrahim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ben Moussa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amotoori]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithInvalidEmail -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:03 EDT" name="closebrowser" finished-at="2023-04-27T21:14:03 EDT" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:03 EDT" name="setup" finished-at="2023-04-27T21:14:13 EDT" duration-ms="9133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithInvalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:13 EDT" name="registeringAccountWithInvalidEmail" data-provider="getTN/TC10ExcelData" finished-at="2023-04-27T21:14:14 EDT" duration-ms="1519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rachid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amotoori@]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithInvalidEmail -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:14 EDT" name="closebrowser" finished-at="2023-04-27T21:14:14 EDT" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:14 EDT" name="setup" finished-at="2023-04-27T21:14:24 EDT" duration-ms="9666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithInvalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:24 EDT" name="registeringAccountWithInvalidEmail" data-provider="getTN/TC10ExcelData" finished-at="2023-04-27T21:14:27 EDT" duration-ms="2712" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zarou]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amotoori@gmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithInvalidEmail -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:27 EDT" name="closebrowser" finished-at="2023-04-27T21:14:27 EDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:27 EDT" name="setup" finished-at="2023-04-27T21:14:37 EDT" duration-ms="9665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountWithInvalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:37 EDT" name="registeringAccountWithInvalidEmail" data-provider="getTN/TC10ExcelData" finished-at="2023-04-27T21:14:38 EDT" duration-ms="1227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Malik]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amotoori@gmail.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[987654321]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Abdu123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountWithInvalidEmail -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:38 EDT" name="closebrowser" finished-at="2023-04-27T21:14:39 EDT" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:39 EDT" name="setup" finished-at="2023-04-27T21:14:47 EDT" duration-ms="7934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidPhoneNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:47 EDT" name="invalidPhoneNumber" data-provider="testingInvalidPhoneNumber" finished-at="2023-04-27T21:14:59 EDT" duration-ms="11934" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abdu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mousssa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User8036340557@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ABDHA]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'input-telephone']/following-sibling::div"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78c19c0a1a9f66b4026c6272995be8ef, findElement {using=xpath, value=//input[@id = 'input-telephone']/following-sibling::div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ABDERR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62589}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62589/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 78c19c0a1a9f66b4026c6272995be8ef]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'input-telephone']/following-sibling::div"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78c19c0a1a9f66b4026c6272995be8ef, findElement {using=xpath, value=//input[@id = 'input-telephone']/following-sibling::div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ABDERR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62589}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62589/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 78c19c0a1a9f66b4026c6272995be8ef
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:535)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:351)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:343)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy19.isDisplayed(Unknown Source)
+at pageFactoring.RegisterPage.isPhoneWarningMessageDisplayed(RegisterPage.java:192)
+at testCases.Registartion_TestCase_continue.invalidPhoneNumber(Registartion_TestCase_continue.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPhoneNumber -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:14:59 EDT" name="closebrowser" finished-at="2023-04-27T21:15:00 EDT" duration-ms="1261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:00 EDT" name="setup" finished-at="2023-04-27T21:15:09 EDT" duration-ms="8648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidPhoneNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:09 EDT" name="invalidPhoneNumber" data-provider="testingInvalidPhoneNumber" finished-at="2023-04-27T21:15:21 EDT" duration-ms="11864" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abdu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mousssa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User3842069878@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'input-telephone']/following-sibling::div"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [44da0797d54b9a58f8ebdbedb2c14ec3, findElement {using=xpath, value=//input[@id = 'input-telephone']/following-sibling::div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ABDERR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62691/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 44da0797d54b9a58f8ebdbedb2c14ec3]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'input-telephone']/following-sibling::div"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [44da0797d54b9a58f8ebdbedb2c14ec3, findElement {using=xpath, value=//input[@id = 'input-telephone']/following-sibling::div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ABDERR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62691/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 44da0797d54b9a58f8ebdbedb2c14ec3
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:535)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:351)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:343)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy19.isDisplayed(Unknown Source)
+at pageFactoring.RegisterPage.isPhoneWarningMessageDisplayed(RegisterPage.java:192)
+at testCases.Registartion_TestCase_continue.invalidPhoneNumber(Registartion_TestCase_continue.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPhoneNumber -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:21 EDT" name="closebrowser" finished-at="2023-04-27T21:15:21 EDT" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:21 EDT" name="setup" finished-at="2023-04-27T21:15:32 EDT" duration-ms="11172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidPhoneNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:32 EDT" name="invalidPhoneNumber" data-provider="testingInvalidPhoneNumber" finished-at="2023-04-27T21:15:45 EDT" duration-ms="12429" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abdu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mousssa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[User1199418617@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AB99uueyu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'input-telephone']/following-sibling::div"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db865482b2cd5917ad208ad7a42eb71a, findElement {using=xpath, value=//input[@id = 'input-telephone']/following-sibling::div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ABDERR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62748}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62748/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db865482b2cd5917ad208ad7a42eb71a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'input-telephone']/following-sibling::div"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db865482b2cd5917ad208ad7a42eb71a, findElement {using=xpath, value=//input[@id = 'input-telephone']/following-sibling::div}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\ABDERR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62748}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62748/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db865482b2cd5917ad208ad7a42eb71a
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:535)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:351)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:343)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy19.isDisplayed(Unknown Source)
+at pageFactoring.RegisterPage.isPhoneWarningMessageDisplayed(RegisterPage.java:192)
+at testCases.Registartion_TestCase_continue.invalidPhoneNumber(Registartion_TestCase_continue.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPhoneNumber -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:45 EDT" name="closebrowser" finished-at="2023-04-27T21:15:46 EDT" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:46 EDT" name="setup" finished-at="2023-04-27T21:15:57 EDT" duration-ms="11378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registeringAccountUsingKeyboardkeys()[pri:5, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:57 EDT" name="registeringAccountUsingKeyboardkeys" finished-at="2023-04-27T21:15:59 EDT" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeringAccountUsingKeyboardkeys -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:15:59 EDT" name="closebrowser" finished-at="2023-04-27T21:16:00 EDT" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="stopRecordingThetTestes()[pri:0, instance:testCases.Registartion_TestCase_continue@6d4d66d2]" started-at="2023-04-27T21:16:01 EDT" name="stopRecordingThetTestes" finished-at="2023-04-27T21:16:01 EDT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopRecordingThetTestes -->
+      </class> <!-- testCases.Registartion_TestCase_continue -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,9 @@
+first-name = Abderrahim
+last-name = Ben Moussa
+password = Selenium12
+re-password =  Selenium12
+unmatchedpassword = Password confirmation does not match password!
+firstname_warningmessage = First Name must be between 1 and 32 characters!
+lastname_warningmessage = Last Name must be between 1 and 32 characters!
+telephone_warningmessage = Telephone must be between 3 and 32 characters!
+Title_of_the_page = Register Account
